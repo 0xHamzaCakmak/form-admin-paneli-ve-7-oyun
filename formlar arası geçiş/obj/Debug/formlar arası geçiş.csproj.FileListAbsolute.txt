@@ -1,0 +1,23 @@
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe.config
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.exe
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\formlar arası geçiş.pdb
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form1.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form2.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Properties.Resources.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.exe
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.pdb
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form3.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar arası geçiş.csproj.ResolveComReference.cache
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form4.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form5.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form6.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form7.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form8.resources
+C:\Users\reela\source\repos\formlar arası geçiş\formlar arası geçiş\obj\Debug\formlar_arası_geçiş.Form9.resources
